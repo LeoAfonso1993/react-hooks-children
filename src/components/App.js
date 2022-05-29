@@ -2,7 +2,7 @@ import React from "react";
 import Container from "./Container";
 
 function App() {
-  return (
+  return (//
     <div className="App">
       <Container header="Example header" direction="horizontal">
         <div>This is an example!</div>
